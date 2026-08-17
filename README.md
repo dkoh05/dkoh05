@@ -1,4 +1,9 @@
-<h2 data-importer="text" align="left">mi casa, su casa👋! you have reached Daeyeon Koh's GitHub profile! been diving deep into back-end development! poke around and find out what i've been up to. trying to be more active on GitHub!</h2>
+<h2 data-importer="text" align="left">mi casa, su casa👋! you have reached Daeyeon Koh's GitHub profile! 
+  
+  <br>been diving deep into back-end development! </br>
+  <br>poke around and find out what i've been up to. trying to be more active on GitHub! </br>
+
+</h2>
 
 ###
 
